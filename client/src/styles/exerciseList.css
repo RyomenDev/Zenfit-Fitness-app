@@ -1,0 +1,15 @@
+#exercise-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#exercise-list li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #d2cdcd;
+    border-radius: 4px;
+}
+
+#exercise-list li:hover {
+    background-color: #f3dfdf;
+}

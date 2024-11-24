@@ -1,0 +1,218 @@
+{
+    "Navigation": {
+        "brandName": "Zenfit",
+        "menuItems": [
+            {
+                "href": "#features",
+                "name": "Features"
+            },
+            {
+                "href": "#about",
+                "name": "About"
+            },
+            {
+                "href": "#services",
+                "name": "Services"
+            },
+            {
+                "href": "#portfolio",
+                "name": "Gallery"
+            },
+            {
+                "href": "#testimonials",
+                "name": "Testimonials"
+            },
+            {
+                "href": "#team",
+                "name": "Team"
+            },
+            {
+                "href": "#contact",
+                "name": "Contact"
+            }
+        ]
+    },
+    "Header": {
+        "title": "Your Complete Fitness Companion",
+        "paragraph": "Zenfit is your ultimate destination for achieving fitness goals, combining exercise tracking, expert advice, and a fully integrated shop for exercise equipment. Whether you're tracking your workouts, seeking guidance on the best exercises, or exploring informative blogs, Zenfit is designed to support every step of your fitness journey. With its seamless features and user-friendly interface, Zenfit ensures that staying fit and healthy has never been easier."
+    },
+    "About": {
+        "img": "Home/img/about.jpg",
+        "paragraph": "Zenfit is a comprehensive fitness platform designed to help you stay fit and achieve your health goals. Whether you're tracking your exercise routines, shopping for high-quality equipment, or seeking expert advice, Zenfit has everything you need. Our mission is to make fitness accessible, enjoyable, and effective for everyone.",
+        "Why": [
+            "Personalized exercise tracking",
+            "Shop for premium fitness equipment",
+            "Get expert fitness advice",
+            "Access a wide range of workouts"
+        ],
+        "Why2": [
+            "Comprehensive fitness blogs",
+            "Track progress with real-time data",
+            "Stay motivated with community support",
+            "Your all-in-one fitness solution"
+        ]
+    },
+    "Gallery": [
+        {
+            "title": "Project Title",
+            "largeImage": "Home/img/portfolio/01-large.jpg",
+            "smallImage": "Home/img/portfolio/01-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "Home/img/portfolio/02-large.jpg",
+            "smallImage": "Home/img/portfolio/02-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "Home/img/portfolio/03-large.jpg",
+            "smallImage": "Home/img/portfolio/03-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "Home/img/portfolio/04-large.jpg",
+            "smallImage": "Home/img/portfolio/04-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "Home/img/portfolio/05-large.jpg",
+            "smallImage": "Home/img/portfolio/05-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "Home/img/portfolio/06-large.jpg",
+            "smallImage": "Home/img/portfolio/06-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "Home/img/portfolio/07-large.jpg",
+            "smallImage": "Home/img/portfolio/07-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "Home/img/portfolio/08-large.jpg",
+            "smallImage": "Home/img/portfolio/08-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "Home/img/portfolio/09-large.jpg",
+            "smallImage": "Home/img/portfolio/09-small.jpg"
+        }
+    ],
+    "Services": [
+        {
+            "icon": "fa fa-heartbeat",
+            "name": "Personalized Exercise Plans",
+            "text": "Our app provides customized exercise plans tailored to your fitness goals and preferences, ensuring an effective and engaging workout experience."
+        },
+        {
+            "icon": "fa fa-cart-plus",
+            "name": "Premium Equipment Shop",
+            "text": "Explore our curated selection of high-quality fitness equipment designed to support your workouts and enhance your fitness journey."
+        },
+        {
+            "icon": "fa fa-calendar-check",
+            "name": "Progress Tracking",
+            "text": "Track your exercise routines and progress with real-time data, allowing you to monitor your achievements and adjust your goals as needed."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "name": "Expert Fitness Advice",
+            "text": "Get valuable insights and tips from fitness experts to improve your workouts, nutrition, and overall well-being."
+        },
+        {
+            "icon": "fa fa-blog",
+            "name": "Fitness Blog",
+            "text": "Stay informed and motivated with our comprehensive fitness blog featuring articles, tips, and success stories from the fitness community."
+        },
+        {
+            "icon": "fa fa-users",
+            "name": "Community Support",
+            "text": "Connect with other fitness enthusiasts, share your progress, and find encouragement through our supportive community features."
+        }
+    ],
+    "Testimonials": [
+        {
+            "img": "Home/img/testimonials/01.jpg",
+            "text": "\"Zenfit has completely transformed my fitness journey. The personalized exercise plans and progress tracking have been game-changers for me. Highly recommended!\"",
+            "name": "Alice Smith"
+        },
+        {
+            "img": "Home/img/testimonials/02.jpg",
+            "text": "\"I love the variety of equipment available in the Zenfit shop. It’s great to have quality gear delivered right to my door. The expert advice is also a huge plus!\"",
+            "name": "Bob Johnson"
+        },
+        {
+            "img": "Home/img/testimonials/03.jpg",
+            "text": "\"The community support on Zenfit is incredible. It’s motivating to connect with other fitness enthusiasts and share our progress. The blog is a great resource, too!\"",
+            "name": "Charlie Brown"
+        },
+        {
+            "img": "Home/img/testimonials/04.jpg",
+            "text": "\"Zenfit’s fitness blog has been a fantastic source of inspiration and information. I’ve learned so much about exercise and nutrition, and it’s made a real difference in my health.\"",
+            "name": "Dana White"
+        },
+        {
+            "img": "Home/img/testimonials/05.jpg",
+            "text": "\"The exercise tracking features in Zenfit are top-notch. It’s so helpful to see my progress over time and adjust my workouts accordingly. Great app!\"",
+            "name": "Evan Black"
+        },
+        {
+            "img": "Home/img/testimonials/06.jpg",
+            "text": "\"Zenfit’s expert fitness advice has helped me overcome plateaus and stay motivated. The personalized feedback and tips are invaluable. I’m seeing real results!\"",
+            "name": "Fiona Green"
+        }
+    ],
+    "Team": [
+        {
+            "img": "Home/img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "Home/img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "Home/img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "Home/img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": " 1234 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "zenfit@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [
+        {
+            "icon": "fa fa-heartbeat",
+            "title": "Exercise Tracking",
+            "text": "Track your workouts effortlessly with real-time data, progress logs, and personalized routines to keep you on track."
+        },
+        {
+            "icon": "fa fa-shopping-cart",
+            "title": "Equipment Shop",
+            "text": "Browse and shop for top-notch exercise equipment, from weights to yoga mats, all in one place."
+        },
+        {
+            "icon": "fa fa-lightbulb-o",
+            "title": "Expert Advice",
+            "text": "Get fitness tips and advice from professionals to guide you through your fitness journey with personalized insights."
+        },
+        {
+            "icon": "fa fa-pencil-square-o",
+            "title": "Fitness Blogs",
+            "text": "Stay informed with the latest in fitness trends, healthy living tips, and workout routines through our regularly updated blog section."
+        }
+    ]
+}

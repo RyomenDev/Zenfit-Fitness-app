@@ -1,0 +1,28 @@
+# Step 1: Add correct content to .gitattributes
+echo "* text=auto eol=lf" > .gitattributes
+
+# Step 2: Add and commit .gitattributes
+git add .gitattributes
+git commit -m "Add .gitattributes to enforce LF line endings"
+
+# Step 3: Unstage all files
+git rm --cached -r .
+
+# Step 4: Reset working directory
+git reset --hard
+
+# Step 5: Check the status
+echo $?
+s"
+
+# git config --global core.eol lf
+# git config --global core.autocrlf input
+
+
+# git rm --cached -r .
+# git reset --hard
+
+# Purpose: This command resets the working directory and the index to the last committed state, effectively re-applying the line endings normalization. This step is necessary to ensure that your working directory matches the newly normalized line endings as per the .gitattributes configuration.
+
+# 1: Remove all files from the staging area: This is done with git rm --cached -r .. This prepares the files to be re-staged with the correct line endings.
+# 2 "Reset the working directory: This is done with git reset --hard, which re-applies the normalization to the working directory, ensuring all files have the correct line endings.

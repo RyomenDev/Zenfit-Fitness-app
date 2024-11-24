@@ -1,0 +1,27 @@
+#root {
+    /* max-width: 1280px; */
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #333;
+    font-size: 24px;
+    margin: 0;
+}
+
+p {
+    color: #666;
+    font-size: 16px;
+}
+
